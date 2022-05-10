@@ -1,0 +1,8 @@
+[2022-05-10 09:16:18] Start:FindBugsTask
+SpotBugs has failed! The SpotBugs can be disabled with the -runFB=false command line option.
+EXCEPTION:Task.cpp:160:ERROR: Execution failure! Exit:1
+
+[2022-05-10 09:16:18] End:FindBugsTask Result:critical error 
+EXCEPTION:Task.cpp:160:ERROR: Execution failure! Exit:1
+
+

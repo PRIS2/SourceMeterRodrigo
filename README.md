@@ -8,3 +8,7 @@ Versions of Ant used by me:
 
 
 In folder results we can find different results of analyze 
+
+## Usage:
+
+SourceMeterJava -projectName=ant1.10.0 -projectBaseDir=/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools -resultsDir=/home/shizzed/Documents/studia/software 2/SourceMeterRodrigo -runFB=true -FBFileList=filelist.txt

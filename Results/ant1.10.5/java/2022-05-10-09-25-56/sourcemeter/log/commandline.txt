@@ -1,0 +1,6 @@
+./SourceMeterJava
+-projectName=ant1.10.5
+-projectBaseDir=/home/shizzed/Downloads/apache-ant-1.9.9-src/apache-ant-1.9.9/src/main/org/apache/tools
+-resultsDir=Results
+-runFB=true
+-FBFileList=filelist.txt

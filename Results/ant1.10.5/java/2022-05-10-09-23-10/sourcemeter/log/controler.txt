@@ -1,0 +1,28 @@
+  [2022-05-10 09:23:10] Starting task:          DirectoryBasedAnalysisTask
+  [2022-05-10 09:24:29] Task ended (+00:01:19): DirectoryBasedAnalysisTask     Result:OK
+  [2022-05-10 09:24:29] Starting task:          JANFilterTask
+  [2022-05-10 09:24:32] Task ended (+00:00:03): JANFilterTask                  Result:OK
+  [2022-05-10 09:24:32] Starting task:          JAN2limTask
+  [2022-05-10 09:24:52] Task ended (+00:00:20): JAN2limTask                    Result:OK
+  [2022-05-10 09:24:52] Starting task:          DcfTask
+  [2022-05-10 09:24:52] Starting task:          Lim2metricsTask
+  [2022-05-10 09:24:52] Starting task:          ProfileTask
+  [2022-05-10 09:24:53] Task ended (+00:00:01): ProfileTask                    Result:OK
+  [2022-05-10 09:24:53] Starting task:          VulnerabilityHunterTask
+  [2022-05-10 09:24:53] Starting task:          RTEHunterTask
+  [2022-05-10 09:24:54] Task ended (+00:00:01): VulnerabilityHunterTask        Result:OK
+  [2022-05-10 09:24:54] Starting task:          FaultHunterTask
+  [2022-05-10 09:24:55] Task ended (+00:00:02): RTEHunterTask                  Result:OK
+  [2022-05-10 09:24:55] Starting task:          PMD2GraphTask
+  [2022-05-10 09:24:56] Task ended (+00:00:02): FaultHunterTask                Result:OK
+  [2022-05-10 09:24:56] Starting task:          AndroidHunterTask
+  [2022-05-10 09:24:57] Task ended (+00:00:01): AndroidHunterTask              Result:OK
+  [2022-05-10 09:24:57] Starting task:          FindBugsTask
+  [2022-05-10 09:24:57] Task ended (+00:00:00): FindBugsTask                   Result:critical error 
+EXCEPTION:Task.cpp:160:ERROR: Execution failure! Exit:1
+
+
+  [2022-05-10 09:24:58] Task ended (+00:00:03): PMD2GraphTask                  Result:OK
+  [2022-05-10 09:24:59] Task ended (+00:00:07): Lim2metricsTask                Result:OK
+  [2022-05-10 09:25:14] Task ended (+00:00:22): DcfTask                        Result:OK
+Failed!

@@ -1,0 +1,1190 @@
+Number of Clone Classes: 259
+
+0~CloneClass [Number of Clone Instances: 2, Lines of Code: 22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(350): 1~CloneInstance [Ln:350, Col:13 - Ln:371, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(501): 2~CloneInstance [Ln:501, Col:13 - Ln:522, Col:14]
+
+3~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(332): 4~CloneInstance [Ln:332, Col:17 - Ln:344, Col:32]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(485): 5~CloneInstance [Ln:485, Col:17 - Ln:497, Col:32]
+
+6~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/email/PlainMailer.java(55): 7~CloneInstance [Ln:55, Col:13 - Ln:64, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/email/PlainMailer.java(65): 8~CloneInstance [Ln:65, Col:13 - Ln:74, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/email/PlainMailer.java(75): 9~CloneInstance [Ln:75, Col:13 - Ln:84, Col:14]
+
+10~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(488): 11~CloneInstance [Ln:488, Col:9 - Ln:501, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(502): 12~CloneInstance [Ln:502, Col:9 - Ln:515, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(516): 13~CloneInstance [Ln:516, Col:9 - Ln:529, Col:10]
+
+14~CloneClass [Number of Clone Instances: 2, Lines of Code: 31]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java(856): 15~CloneInstance [Ln:856, Col:11 - Ln:886, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(821): 16~CloneInstance [Ln:821, Col:11 - Ln:852, Col:10]
+
+17~CloneClass [Number of Clone Instances: 2, Lines of Code: 47]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java(806): 18~CloneInstance [Ln:806, Col:17 - Ln:852, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(771): 19~CloneInstance [Ln:771, Col:17 - Ln:817, Col:18]
+
+20~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/EjbJar.java(611): 21~CloneInstance [Ln:611, Col:11 - Ln:620, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java(856): 22~CloneInstance [Ln:856, Col:11 - Ln:868, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(821): 23~CloneInstance [Ln:821, Col:11 - Ln:833, Col:10]
+
+24~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/optional/image/Rectangle.java(103): 25~CloneInstance [Ln:103, Col:9 - Ln:117, Col:50]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/optional/image/Ellipse.java(72): 26~CloneInstance [Ln:72, Col:9 - Ln:85, Col:50]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/optional/image/Arc.java(108): 27~CloneInstance [Ln:108, Col:9 - Ln:121, Col:50]
+
+28~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/rmic/SunRmic.java(106): 29~CloneInstance [Ln:106, Col:19 - Ln:116, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/splash/SplashTask.java(259): 30~CloneInstance [Ln:259, Col:23 - Ln:269, Col:14]
+
+31~CloneClass [Number of Clone Instances: 4, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2159): 32~CloneInstance [Ln:2159, Col:27 - Ln:2169, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2198): 33~CloneInstance [Ln:2198, Col:53 - Ln:2207, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2228): 34~CloneInstance [Ln:2228, Col:57 - Ln:2237, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2284): 35~CloneInstance [Ln:2284, Col:69 - Ln:2294, Col:14]
+
+36~CloneClass [Number of Clone Instances: 4, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1546): 37~CloneInstance [Ln:1546, Col:27 - Ln:1556, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1586): 38~CloneInstance [Ln:1586, Col:53 - Ln:1595, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1616): 39~CloneInstance [Ln:1616, Col:57 - Ln:1625, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1672): 40~CloneInstance [Ln:1672, Col:69 - Ln:1682, Col:14]
+
+41~CloneClass [Number of Clone Instances: 11, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(120): 42~CloneInstance [Ln:120, Col:9 - Ln:133, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklbtype.java(126): 43~CloneInstance [Ln:126, Col:9 - Ln:139, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(118): 44~CloneInstance [Ln:118, Col:9 - Ln:131, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCRmtype.java(119): 45~CloneInstance [Ln:119, Col:9 - Ln:132, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java(94): 46~CloneInstance [Ln:94, Col:9 - Ln:111, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(115): 47~CloneInstance [Ln:115, Col:9 - Ln:132, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(121): 48~CloneInstance [Ln:121, Col:9 - Ln:138, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(108): 49~CloneInstance [Ln:108, Col:9 - Ln:121, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(112): 50~CloneInstance [Ln:112, Col:9 - Ln:125, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnCheckout.java(78): 51~CloneInstance [Ln:78, Col:9 - Ln:91, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(90): 52~CloneInstance [Ln:90, Col:9 - Ln:103, Col:10]
+
+53~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Jikes.java(119): 54~CloneInstance [Ln:119, Col:9 - Ln:132, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/JonasDeploymentTool.java(596): 55~CloneInstance [Ln:596, Col:9 - Ln:614, Col:10]
+
+56~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Java.java(189): 57~CloneInstance [Ln:189, Col:13 - Ln:200, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.java(1585): 58~CloneInstance [Ln:1585, Col:9 - Ln:1598, Col:10]
+
+59~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(189): 60~CloneInstance [Ln:189, Col:9 - Ln:198, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(200): 61~CloneInstance [Ln:200, Col:9 - Ln:209, Col:10]
+
+62~CloneClass [Number of Clone Instances: 4, Lines of Code: 18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(583): 63~CloneInstance [Ln:583, Col:9 - Ln:601, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(602): 64~CloneInstance [Ln:602, Col:9 - Ln:620, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(621): 65~CloneInstance [Ln:621, Col:9 - Ln:639, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(664): 66~CloneInstance [Ln:664, Col:9 - Ln:681, Col:10]
+
+67~CloneClass [Number of Clone Instances: 5, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(583): 68~CloneInstance [Ln:583, Col:9 - Ln:598, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(599): 69~CloneInstance [Ln:599, Col:9 - Ln:614, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(615): 70~CloneInstance [Ln:615, Col:9 - Ln:630, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(631): 71~CloneInstance [Ln:631, Col:9 - Ln:645, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(664): 72~CloneInstance [Ln:664, Col:9 - Ln:678, Col:10]
+
+73~CloneClass [Number of Clone Instances: 6, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(583): 74~CloneInstance [Ln:583, Col:9 - Ln:595, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(596): 75~CloneInstance [Ln:596, Col:9 - Ln:608, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(609): 76~CloneInstance [Ln:609, Col:9 - Ln:620, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(621): 77~CloneInstance [Ln:621, Col:9 - Ln:633, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(634): 78~CloneInstance [Ln:634, Col:9 - Ln:645, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(664): 79~CloneInstance [Ln:664, Col:9 - Ln:675, Col:10]
+
+80~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/tar/TarInputStream.java(312): 81~CloneInstance [Ln:312, Col:9 - Ln:321, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/tar/TarInputStream.java(323): 82~CloneInstance [Ln:323, Col:9 - Ln:332, Col:10]
+
+83~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(211): 84~CloneInstance [Ln:211, Col:9 - Ln:229, Col:54]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklbtype.java(167): 85~CloneInstance [Ln:167, Col:9 - Ln:185, Col:59]
+
+86~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.java(1607): 87~CloneInstance [Ln:1607, Col:13 - Ln:1616, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.java(1933): 88~CloneInstance [Ln:1933, Col:13 - Ln:1942, Col:14]
+
+89~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/TelnetTask.java(123): 90~CloneInstance [Ln:123, Col:18 - Ln:136, Col:9]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/RExecTask.java(379): 91~CloneInstance [Ln:379, Col:19 - Ln:392, Col:10]
+
+92~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/Jdk14RegexpMatcher.java(135): 93~CloneInstance [Ln:135, Col:9 - Ln:145, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/JakartaRegexpMatcher.java(127): 94~CloneInstance [Ln:127, Col:9 - Ln:137, Col:18]
+
+95~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Checksum.java(484): 96~CloneInstance [Ln:484, Col:17 - Ln:493, Col:61]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/modifiedselector/DigestAlgorithm.java(166): 97~CloneInstance [Ln:166, Col:17 - Ln:175, Col:60]
+
+98~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/rmic/ForkingSunRmic.java(68): 99~CloneInstance [Ln:68, Col:13 - Ln:77, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javah/ForkingJavah.java(59): 100~CloneInstance [Ln:59, Col:13 - Ln:68, Col:10]
+
+101~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/ProcessDestroyer.java(102): 102~CloneInstance [Ln:102, Col:15 - Ln:112, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/ProcessDestroyer.java(131): 103~CloneInstance [Ln:131, Col:15 - Ln:141, Col:14]
+
+104~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/SSHExec.java(460): 105~CloneInstance [Ln:460, Col:11 - Ln:475, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/SSHSession.java(179): 106~CloneInstance [Ln:179, Col:11 - Ln:194, Col:10]
+
+107~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Jikes.java(93): 108~CloneInstance [Ln:93, Col:9 - Ln:102, Col:53]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Kjc.java(60): 109~CloneInstance [Ln:60, Col:9 - Ln:70, Col:53]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/DefaultCompilerAdapter.java(291): 110~CloneInstance [Ln:291, Col:9 - Ln:300, Col:53]
+
+111~CloneClass [Number of Clone Instances: 2, Lines of Code: 36]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(410): 112~CloneInstance [Ln:410, Col:9 - Ln:445, Col:30]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(509): 113~CloneInstance [Ln:509, Col:9 - Ln:544, Col:30]
+
+114~CloneClass [Number of Clone Instances: 2, Lines of Code: 34]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(410): 115~CloneInstance [Ln:410, Col:9 - Ln:443, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(502): 116~CloneInstance [Ln:502, Col:9 - Ln:535, Col:10]
+
+117~CloneClass [Number of Clone Instances: 2, Lines of Code: 27]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(410): 118~CloneInstance [Ln:410, Col:9 - Ln:436, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(502): 119~CloneInstance [Ln:502, Col:9 - Ln:528, Col:10]
+
+120~CloneClass [Number of Clone Instances: 3, Lines of Code: 20]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(410): 121~CloneInstance [Ln:410, Col:9 - Ln:429, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(502): 122~CloneInstance [Ln:502, Col:9 - Ln:521, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(523): 123~CloneInstance [Ln:523, Col:9 - Ln:542, Col:10]
+
+124~CloneClass [Number of Clone Instances: 5, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(410): 125~CloneInstance [Ln:410, Col:9 - Ln:422, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(424): 126~CloneInstance [Ln:424, Col:9 - Ln:436, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(502): 127~CloneInstance [Ln:502, Col:9 - Ln:514, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(516): 128~CloneInstance [Ln:516, Col:9 - Ln:528, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(530): 129~CloneInstance [Ln:530, Col:9 - Ln:542, Col:10]
+
+130~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/XMLValidateTask.java(485): 131~CloneInstance [Ln:485, Col:9 - Ln:503, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/XMLValidateTask.java(520): 132~CloneInstance [Ln:520, Col:9 - Ln:538, Col:10]
+
+133~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(400): 134~CloneInstance [Ln:400, Col:9 - Ln:417, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(420): 135~CloneInstance [Ln:420, Col:9 - Ln:437, Col:10]
+
+136~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(571): 137~CloneInstance [Ln:571, Col:9 - Ln:581, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(583): 138~CloneInstance [Ln:583, Col:9 - Ln:593, Col:10]
+
+139~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicTOPLinkDeploymentTool.java(90): 140~CloneInstance [Ln:90, Col:9 - Ln:99, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(416): 141~CloneInstance [Ln:416, Col:9 - Ln:425, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(427): 142~CloneInstance [Ln:427, Col:9 - Ln:436, Col:10]
+
+143~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(631): 144~CloneInstance [Ln:631, Col:9 - Ln:649, Col:24]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(740): 145~CloneInstance [Ln:740, Col:9 - Ln:758, Col:24]
+
+146~CloneClass [Number of Clone Instances: 2, Lines of Code: 64]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(259): 147~CloneInstance [Ln:259, Col:17 - Ln:322, Col:50]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(414): 148~CloneInstance [Ln:414, Col:17 - Ln:477, Col:50]
+
+149~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(234): 150~CloneInstance [Ln:234, Col:13 - Ln:254, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(391): 151~CloneInstance [Ln:391, Col:13 - Ln:411, Col:14]
+
+152~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/Scp.java(472): 153~CloneInstance [Ln:472, Col:17 - Ln:481, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/Scp.java(519): 154~CloneInstance [Ln:519, Col:13 - Ln:528, Col:14]
+
+155~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(1773): 156~CloneInstance [Ln:1773, Col:35 - Ln:1784, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1159): 157~CloneInstance [Ln:1159, Col:53 - Ln:1170, Col:14]
+
+158~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(285): 159~CloneInstance [Ln:285, Col:13 - Ln:294, Col:31]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(449): 160~CloneInstance [Ln:449, Col:13 - Ln:458, Col:31]
+
+161~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/EchoProperties.java(273): 162~CloneInstance [Ln:273, Col:13 - Ln:291, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/EchoProperties.java(335): 163~CloneInstance [Ln:335, Col:17 - Ln:354, Col:18]
+
+164~CloneClass [Number of Clone Instances: 5, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(689): 165~CloneInstance [Ln:689, Col:47 - Ln:698, Col:22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(704): 166~CloneInstance [Ln:704, Col:50 - Ln:713, Col:26]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(769): 167~CloneInstance [Ln:769, Col:43 - Ln:778, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(784): 168~CloneInstance [Ln:784, Col:46 - Ln:793, Col:22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(819): 169~CloneInstance [Ln:819, Col:38 - Ln:829, Col:14]
+
+170~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSS.java(488): 171~CloneInstance [Ln:488, Col:13 - Ln:497, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/sos/SOS.java(364): 172~CloneInstance [Ln:364, Col:13 - Ln:373, Col:14]
+
+173~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/depend/bcel/AncestorAnalyzer.java(84): 174~CloneInstance [Ln:84, Col:21 - Ln:98, Col:58]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/depend/bcel/FullAnalyzer.java(81): 175~CloneInstance [Ln:81, Col:21 - Ln:95, Col:58]
+
+176~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/GenerateKey.java(345): 177~CloneInstance [Ln:345, Col:9 - Ln:357, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/GenerateKey.java(383): 178~CloneInstance [Ln:383, Col:9 - Ln:395, Col:10]
+
+179~CloneClass [Number of Clone Instances: 2, Lines of Code: 29]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJDoc.java(158): 180~CloneInstance [Ln:158, Col:9 - Ln:186, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJTree.java(271): 181~CloneInstance [Ln:271, Col:9 - Ln:299, Col:10]
+
+182~CloneClass [Number of Clone Instances: 3, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJDoc.java(158): 183~CloneInstance [Ln:158, Col:9 - Ln:170, Col:72]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJTree.java(271): 184~CloneInstance [Ln:271, Col:9 - Ln:283, Col:72]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JavaCC.java(366): 185~CloneInstance [Ln:366, Col:9 - Ln:378, Col:72]
+
+186~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(53): 187~CloneInstance [Ln:53, Col:9 - Ln:71, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSGET.java(52): 188~CloneInstance [Ln:52, Col:9 - Ln:70, Col:28]
+
+189~CloneClass [Number of Clone Instances: 3, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(57): 190~CloneInstance [Ln:57, Col:9 - Ln:71, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSGET.java(56): 191~CloneInstance [Ln:56, Col:9 - Ln:70, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(52): 192~CloneInstance [Ln:52, Col:9 - Ln:66, Col:28]
+
+193~CloneClass [Number of Clone Instances: 5, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(59): 194~CloneInstance [Ln:59, Col:9 - Ln:71, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSGET.java(58): 195~CloneInstance [Ln:58, Col:9 - Ln:70, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(54): 196~CloneInstance [Ln:54, Col:9 - Ln:66, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(54): 197~CloneInstance [Ln:54, Col:9 - Ln:66, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSHISTORY.java(59): 198~CloneInstance [Ln:59, Col:9 - Ln:71, Col:28]
+
+199~CloneClass [Number of Clone Instances: 6, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(61): 200~CloneInstance [Ln:61, Col:9 - Ln:71, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSGET.java(60): 201~CloneInstance [Ln:60, Col:9 - Ln:70, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCREATE.java(52): 202~CloneInstance [Ln:52, Col:9 - Ln:62, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(56): 203~CloneInstance [Ln:56, Col:9 - Ln:66, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(56): 204~CloneInstance [Ln:56, Col:9 - Ln:66, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSHISTORY.java(61): 205~CloneInstance [Ln:61, Col:9 - Ln:71, Col:28]
+
+206~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/BorlandGenerateClient.java(202): 207~CloneInstance [Ln:202, Col:13 - Ln:217, Col:32]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/BorlandGenerateClient.java(252): 208~CloneInstance [Ln:252, Col:13 - Ln:267, Col:32]
+
+209~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/IntrospectionHelper.java(1349): 210~CloneInstance [Ln:1349, Col:15 - Ln:1360, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/IntrospectionHelper.java(1377): 211~CloneInstance [Ln:1377, Col:15 - Ln:1388, Col:14]
+
+212~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/EchoProperties.java(299): 213~CloneInstance [Ln:299, Col:15 - Ln:308, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/EchoProperties.java(308): 214~CloneInstance [Ln:308, Col:15 - Ln:317, Col:14]
+
+215~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Jvc.java(97): 216~CloneInstance [Ln:97, Col:9 - Ln:107, Col:37]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Kjc.java(100): 217~CloneInstance [Ln:100, Col:9 - Ln:112, Col:37]
+
+218~CloneClass [Number of Clone Instances: 2, Lines of Code: 44]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(674): 219~CloneInstance [Ln:674, Col:21 - Ln:717, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(754): 220~CloneInstance [Ln:754, Col:17 - Ln:797, Col:55]
+
+221~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/DefaultCompilerAdapter.java(265): 222~CloneInstance [Ln:265, Col:9 - Ln:274, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/DefaultCompilerAdapter.java(276): 223~CloneInstance [Ln:276, Col:9 - Ln:285, Col:10]
+
+224~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJDoc.java(151): 225~CloneInstance [Ln:151, Col:9 - Ln:170, Col:72]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JavaCC.java(360): 226~CloneInstance [Ln:360, Col:9 - Ln:378, Col:72]
+
+227~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/GenerateKey.java(347): 228~CloneInstance [Ln:347, Col:9 - Ln:357, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/GenerateKey.java(359): 229~CloneInstance [Ln:359, Col:9 - Ln:369, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/GenerateKey.java(385): 230~CloneInstance [Ln:385, Col:9 - Ln:395, Col:10]
+
+231~CloneClass [Number of Clone Instances: 2, Lines of Code: 22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJDoc.java(198): 232~CloneInstance [Ln:198, Col:12 - Ln:219, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJTree.java(308): 233~CloneInstance [Ln:308, Col:12 - Ln:329, Col:10]
+
+234~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Jar.java(576): 235~CloneInstance [Ln:576, Col:9 - Ln:590, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Jar.java(666): 236~CloneInstance [Ln:666, Col:9 - Ln:678, Col:10]
+
+237~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Definer.java(338): 238~CloneInstance [Ln:338, Col:9 - Ln:353, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Definer.java(369): 239~CloneInstance [Ln:369, Col:13 - Ln:382, Col:14]
+
+240~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/JavaEnvUtils.java(452): 241~CloneInstance [Ln:452, Col:15 - Ln:461, Col:62]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/JavaEnvUtils.java(507): 242~CloneInstance [Ln:507, Col:15 - Ln:516, Col:94]
+
+243~CloneClass [Number of Clone Instances: 4, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(267): 244~CloneInstance [Ln:267, Col:17 - Ln:287, Col:32]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(297): 245~CloneInstance [Ln:297, Col:17 - Ln:317, Col:32]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(422): 246~CloneInstance [Ln:422, Col:17 - Ln:442, Col:32]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(452): 247~CloneInstance [Ln:452, Col:17 - Ln:472, Col:32]
+
+248~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(1312): 249~CloneInstance [Ln:1312, Col:17 - Ln:1323, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(1325): 250~CloneInstance [Ln:1325, Col:17 - Ln:1336, Col:18]
+
+251~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(144): 252~CloneInstance [Ln:144, Col:9 - Ln:154, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(229): 253~CloneInstance [Ln:229, Col:9 - Ln:239, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(256): 254~CloneInstance [Ln:256, Col:9 - Ln:266, Col:10]
+
+255~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/PropertyFile.java(687): 256~CloneInstance [Ln:687, Col:9 - Ln:697, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Tstamp.java(311): 257~CloneInstance [Ln:311, Col:9 - Ln:321, Col:10]
+
+258~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(1168): 259~CloneInstance [Ln:1168, Col:13 - Ln:1178, Col:26]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(1453): 260~CloneInstance [Ln:1453, Col:13 - Ln:1462, Col:25]
+
+261~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/JakartaOroMatcher.java(137): 262~CloneInstance [Ln:137, Col:9 - Ln:146, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/Jdk14RegexpMatcher.java(136): 263~CloneInstance [Ln:136, Col:9 - Ln:145, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/JakartaRegexpMatcher.java(128): 264~CloneInstance [Ln:128, Col:9 - Ln:137, Col:18]
+
+265~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/ScpToMessage.java(263): 266~CloneInstance [Ln:263, Col:9 - Ln:277, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/ScpFromMessage.java(161): 267~CloneInstance [Ln:161, Col:9 - Ln:175, Col:10]
+
+268~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javah/JavahAdapterFactory.java(88): 269~CloneInstance [Ln:88, Col:57 - Ln:99, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/native2ascii/Native2AsciiAdapterFactory.java(83): 270~CloneInstance [Ln:83, Col:70 - Ln:94, Col:10]
+
+271~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/tar/TarBuffer.java(330): 272~CloneInstance [Ln:330, Col:9 - Ln:340, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/tar/TarBuffer.java(370): 273~CloneInstance [Ln:370, Col:9 - Ln:380, Col:10]
+
+274~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(234): 275~CloneInstance [Ln:234, Col:9 - Ln:251, Col:60]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(328): 276~CloneInstance [Ln:328, Col:9 - Ln:345, Col:62]
+
+277~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2298): 278~CloneInstance [Ln:2298, Col:43 - Ln:2307, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1687): 279~CloneInstance [Ln:1687, Col:52 - Ln:1696, Col:18]
+
+280~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2454): 281~CloneInstance [Ln:2454, Col:25 - Ln:2466, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1836): 282~CloneInstance [Ln:1836, Col:34 - Ln:1848, Col:14]
+
+283~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Jikes.java(58): 284~CloneInstance [Ln:58, Col:9 - Ln:67, Col:32]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/JikesOutputParser.java(96): 285~CloneInstance [Ln:96, Col:9 - Ln:105, Col:36]
+
+286~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/image/Image.java(330): 287~CloneInstance [Ln:330, Col:35 - Ln:339, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/image/Image.java(339): 288~CloneInstance [Ln:339, Col:51 - Ln:348, Col:10]
+
+289~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Jikes.java(109): 290~CloneInstance [Ln:109, Col:20 - Ln:118, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/DefaultCompilerAdapter.java(350): 291~CloneInstance [Ln:350, Col:51 - Ln:359, Col:14]
+
+292~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/FixCrLfFilter.java(584): 293~CloneInstance [Ln:584, Col:17 - Ln:595, Col:27]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/StringUtils.java(221): 294~CloneInstance [Ln:221, Col:17 - Ln:232, Col:27]
+
+295~CloneClass [Number of Clone Instances: 2, Lines of Code: 28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(123): 296~CloneInstance [Ln:123, Col:13 - Ln:150, Col:23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(151): 297~CloneInstance [Ln:151, Col:13 - Ln:178, Col:23]
+
+298~CloneClass [Number of Clone Instances: 2, Lines of Code: 24]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(123): 299~CloneInstance [Ln:123, Col:13 - Ln:146, Col:23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(147): 300~CloneInstance [Ln:147, Col:13 - Ln:170, Col:23]
+
+301~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(123): 302~CloneInstance [Ln:123, Col:13 - Ln:142, Col:23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(143): 303~CloneInstance [Ln:143, Col:13 - Ln:162, Col:23]
+
+304~CloneClass [Number of Clone Instances: 3, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(123): 305~CloneInstance [Ln:123, Col:13 - Ln:138, Col:23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(139): 306~CloneInstance [Ln:139, Col:13 - Ln:154, Col:23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(155): 307~CloneInstance [Ln:155, Col:13 - Ln:170, Col:23]
+
+308~CloneClass [Number of Clone Instances: 4, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(123): 309~CloneInstance [Ln:123, Col:13 - Ln:134, Col:23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(135): 310~CloneInstance [Ln:135, Col:13 - Ln:146, Col:23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(147): 311~CloneInstance [Ln:147, Col:13 - Ln:158, Col:23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPoolEntry.java(159): 312~CloneInstance [Ln:159, Col:13 - Ln:170, Col:23]
+
+313~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/FixCrLfFilter.java(528): 314~CloneInstance [Ln:528, Col:24 - Ln:537, Col:27]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/FixCrLfFilter.java(583): 315~CloneInstance [Ln:583, Col:24 - Ln:592, Col:27]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/StringUtils.java(220): 316~CloneInstance [Ln:220, Col:20 - Ln:229, Col:27]
+
+317~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/helper/ProjectHelperImpl.java(138): 318~CloneInstance [Ln:138, Col:13 - Ln:148, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/helper/ProjectHelper2.java(283): 319~CloneInstance [Ln:283, Col:13 - Ln:293, Col:14]
+
+320~CloneClass [Number of Clone Instances: 9, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(113): 321~CloneInstance [Ln:113, Col:9 - Ln:133, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(111): 322~CloneInstance [Ln:111, Col:9 - Ln:131, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java(87): 323~CloneInstance [Ln:87, Col:9 - Ln:111, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(108): 324~CloneInstance [Ln:108, Col:9 - Ln:132, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(114): 325~CloneInstance [Ln:114, Col:9 - Ln:138, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(101): 326~CloneInstance [Ln:101, Col:9 - Ln:121, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(105): 327~CloneInstance [Ln:105, Col:9 - Ln:125, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnCheckout.java(71): 328~CloneInstance [Ln:71, Col:9 - Ln:91, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(83): 329~CloneInstance [Ln:83, Col:9 - Ln:103, Col:10]
+
+330~CloneClass [Number of Clone Instances: 11, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(113): 331~CloneInstance [Ln:113, Col:9 - Ln:123, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(120): 332~CloneInstance [Ln:120, Col:9 - Ln:130, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(111): 333~CloneInstance [Ln:111, Col:9 - Ln:121, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java(87): 334~CloneInstance [Ln:87, Col:9 - Ln:98, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(108): 335~CloneInstance [Ln:108, Col:9 - Ln:119, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(114): 336~CloneInstance [Ln:114, Col:9 - Ln:124, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(101): 337~CloneInstance [Ln:101, Col:9 - Ln:111, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(105): 338~CloneInstance [Ln:105, Col:9 - Ln:115, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUpdate.java(103): 339~CloneInstance [Ln:103, Col:9 - Ln:114, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnCheckout.java(71): 340~CloneInstance [Ln:71, Col:9 - Ln:81, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(83): 341~CloneInstance [Ln:83, Col:9 - Ln:93, Col:35]
+
+342~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklbtype.java(119): 343~CloneInstance [Ln:119, Col:9 - Ln:139, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCRmtype.java(112): 344~CloneInstance [Ln:112, Col:9 - Ln:132, Col:10]
+
+345~CloneClass [Number of Clone Instances: 2, Lines of Code: 26]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(106): 346~CloneInstance [Ln:106, Col:9 - Ln:131, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(110): 347~CloneInstance [Ln:110, Col:9 - Ln:138, Col:10]
+
+348~CloneClass [Number of Clone Instances: 2, Lines of Code: 34]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(583): 349~CloneInstance [Ln:583, Col:9 - Ln:617, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(618): 350~CloneInstance [Ln:618, Col:9 - Ln:651, Col:10]
+
+351~CloneClass [Number of Clone Instances: 2, Lines of Code: 31]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(583): 352~CloneInstance [Ln:583, Col:9 - Ln:614, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(615): 353~CloneInstance [Ln:615, Col:9 - Ln:645, Col:10]
+
+354~CloneClass [Number of Clone Instances: 2, Lines of Code: 28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(583): 355~CloneInstance [Ln:583, Col:9 - Ln:611, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(612): 356~CloneInstance [Ln:612, Col:9 - Ln:639, Col:10]
+
+357~CloneClass [Number of Clone Instances: 2, Lines of Code: 25]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(583): 358~CloneInstance [Ln:583, Col:9 - Ln:608, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(609): 359~CloneInstance [Ln:609, Col:9 - Ln:633, Col:10]
+
+360~CloneClass [Number of Clone Instances: 3, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(583): 361~CloneInstance [Ln:583, Col:9 - Ln:605, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(606): 362~CloneInstance [Ln:606, Col:9 - Ln:627, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/NetRexxC.java(628): 363~CloneInstance [Ln:628, Col:9 - Ln:648, Col:10]
+
+364~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/AntStructure.java(211): 365~CloneInstance [Ln:211, Col:13 - Ln:221, Col:46]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/AntStructure.java(223): 366~CloneInstance [Ln:223, Col:13 - Ln:234, Col:29]
+
+367~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/AbstractClasspathResource.java(179): 368~CloneInstance [Ln:179, Col:79 - Ln:191, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/ZipResource.java(140): 369~CloneInstance [Ln:140, Col:60 - Ln:152, Col:10]
+
+370~CloneClass [Number of Clone Instances: 7, Lines of Code: 28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(107): 371~CloneInstance [Ln:107, Col:5 - Ln:134, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java(81): 372~CloneInstance [Ln:81, Col:5 - Ln:112, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(102): 373~CloneInstance [Ln:102, Col:5 - Ln:133, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(95): 374~CloneInstance [Ln:95, Col:5 - Ln:122, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(99): 375~CloneInstance [Ln:99, Col:5 - Ln:126, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnCheckout.java(65): 376~CloneInstance [Ln:65, Col:5 - Ln:92, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(77): 377~CloneInstance [Ln:77, Col:5 - Ln:104, Col:6]
+
+378~CloneClass [Number of Clone Instances: 9, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(108): 379~CloneInstance [Ln:108, Col:9 - Ln:123, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(115): 380~CloneInstance [Ln:115, Col:9 - Ln:130, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java(82): 381~CloneInstance [Ln:82, Col:9 - Ln:98, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(103): 382~CloneInstance [Ln:103, Col:9 - Ln:119, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(96): 383~CloneInstance [Ln:96, Col:9 - Ln:111, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(100): 384~CloneInstance [Ln:100, Col:9 - Ln:115, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUpdate.java(98): 385~CloneInstance [Ln:98, Col:9 - Ln:114, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnCheckout.java(66): 386~CloneInstance [Ln:66, Col:9 - Ln:81, Col:35]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(78): 387~CloneInstance [Ln:78, Col:9 - Ln:93, Col:35]
+
+388~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javah/Gcjh.java(39): 389~CloneInstance [Ln:39, Col:5 - Ln:50, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javah/Kaffeh.java(44): 390~CloneInstance [Ln:44, Col:5 - Ln:55, Col:6]
+
+391~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(822): 392~CloneInstance [Ln:822, Col:17 - Ln:831, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(961): 393~CloneInstance [Ln:961, Col:17 - Ln:970, Col:18]
+
+394~CloneClass [Number of Clone Instances: 2, Lines of Code: 33]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(850): 395~CloneInstance [Ln:850, Col:17 - Ln:882, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(1014): 396~CloneInstance [Ln:1014, Col:17 - Ln:1048, Col:18]
+
+397~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java(771): 398~CloneInstance [Ln:771, Col:33 - Ln:784, Col:34]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(736): 399~CloneInstance [Ln:736, Col:33 - Ln:749, Col:34]
+
+400~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPConfigurator.java(56): 401~CloneInstance [Ln:56, Col:9 - Ln:68, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPConfigurator.java(83): 402~CloneInstance [Ln:83, Col:9 - Ln:95, Col:10]
+
+403~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java(622): 404~CloneInstance [Ln:622, Col:13 - Ln:631, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(588): 405~CloneInstance [Ln:588, Col:17 - Ln:597, Col:18]
+
+406~CloneClass [Number of Clone Instances: 9, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(141): 407~CloneInstance [Ln:141, Col:9 - Ln:151, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(216): 408~CloneInstance [Ln:216, Col:9 - Ln:226, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklbtype.java(172): 409~CloneInstance [Ln:172, Col:9 - Ln:182, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(154): 410~CloneInstance [Ln:154, Col:9 - Ln:164, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCRmtype.java(149): 411~CloneInstance [Ln:149, Col:9 - Ln:159, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(161): 412~CloneInstance [Ln:161, Col:9 - Ln:171, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(129): 413~CloneInstance [Ln:129, Col:9 - Ln:139, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(133): 414~CloneInstance [Ln:133, Col:9 - Ln:143, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(110): 415~CloneInstance [Ln:110, Col:9 - Ln:120, Col:10]
+
+416~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(268): 417~CloneInstance [Ln:268, Col:9 - Ln:286, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(288): 418~CloneInstance [Ln:288, Col:9 - Ln:305, Col:10]
+
+419~CloneClass [Number of Clone Instances: 3, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(702): 420~CloneInstance [Ln:702, Col:21 - Ln:716, Col:22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(782): 421~CloneInstance [Ln:782, Col:17 - Ln:796, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(817): 422~CloneInstance [Ln:817, Col:9 - Ln:832, Col:10]
+
+423~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Copy.java(899): 424~CloneInstance [Ln:899, Col:23 - Ln:912, Col:22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Copy.java(982): 425~CloneInstance [Ln:982, Col:23 - Ln:996, Col:22]
+
+426~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(725): 427~CloneInstance [Ln:725, Col:25 - Ln:735, Col:26]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(626): 428~CloneInstance [Ln:626, Col:25 - Ln:636, Col:26]
+
+429~CloneClass [Number of Clone Instances: 2, Lines of Code: 42]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(508): 430~CloneInstance [Ln:508, Col:17 - Ln:549, Col:47]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(409): 431~CloneInstance [Ln:409, Col:17 - Ln:450, Col:47]
+
+432~CloneClass [Number of Clone Instances: 2, Lines of Code: 30]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(450): 433~CloneInstance [Ln:450, Col:25 - Ln:479, Col:26]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(351): 434~CloneInstance [Ln:351, Col:25 - Ln:380, Col:26]
+
+435~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(51): 436~CloneInstance [Ln:51, Col:9 - Ln:66, Col:28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSHISTORY.java(57): 437~CloneInstance [Ln:57, Col:9 - Ln:71, Col:28]
+
+438~CloneClass [Number of Clone Instances: 4, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(50): 439~CloneInstance [Ln:50, Col:9 - Ln:63, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(51): 440~CloneInstance [Ln:51, Col:9 - Ln:64, Col:61]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(49): 441~CloneInstance [Ln:49, Col:9 - Ln:62, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSHISTORY.java(57): 442~CloneInstance [Ln:57, Col:9 - Ln:69, Col:60]
+
+443~CloneClass [Number of Clone Instances: 5, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(50): 444~CloneInstance [Ln:50, Col:9 - Ln:61, Col:70]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCREATE.java(49): 445~CloneInstance [Ln:49, Col:9 - Ln:60, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(51): 446~CloneInstance [Ln:51, Col:9 - Ln:62, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(49): 447~CloneInstance [Ln:49, Col:9 - Ln:60, Col:62]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSHISTORY.java(57): 448~CloneInstance [Ln:57, Col:9 - Ln:67, Col:59]
+
+449~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/sos/SOS.java(430): 450~CloneInstance [Ln:430, Col:9 - Ln:440, Col:62]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/sos/SOS.java(446): 451~CloneInstance [Ln:446, Col:9 - Ln:456, Col:65]
+
+452~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(510): 453~CloneInstance [Ln:510, Col:9 - Ln:520, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(522): 454~CloneInstance [Ln:522, Col:9 - Ln:532, Col:10]
+
+455~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/TarScanner.java(67): 456~CloneInstance [Ln:67, Col:17 - Ln:79, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/ZipScanner.java(81): 457~CloneInstance [Ln:81, Col:17 - Ln:93, Col:18]
+
+458~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2064): 459~CloneInstance [Ln:2064, Col:9 - Ln:2075, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1453): 460~CloneInstance [Ln:1453, Col:9 - Ln:1464, Col:10]
+
+461~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/DescriptorHandler.java(277): 462~CloneInstance [Ln:277, Col:9 - Ln:289, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/DescriptorHandler.java(307): 463~CloneInstance [Ln:307, Col:9 - Ln:319, Col:10]
+
+464~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java(821): 465~CloneInstance [Ln:821, Col:9 - Ln:831, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.java(778): 466~CloneInstance [Ln:778, Col:9 - Ln:787, Col:10]
+
+467~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/resolvers/AntResolver.java(98): 468~CloneInstance [Ln:98, Col:29 - Ln:108, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/JarLibResolveTask.java(257): 469~CloneInstance [Ln:257, Col:51 - Ln:267, Col:6]
+
+470~CloneClass [Number of Clone Instances: 4, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/BaseSelectorContainer.java(349): 471~CloneInstance [Ln:349, Col:31 - Ln:363, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/AbstractSelectorContainer.java(345): 472~CloneInstance [Ln:345, Col:86 - Ln:359, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/selectors/ResourceSelectorContainer.java(112): 473~CloneInstance [Ln:112, Col:31 - Ln:126, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/BaseResourceCollectionContainer.java(192): 474~CloneInstance [Ln:192, Col:31 - Ln:206, Col:6]
+
+475~CloneClass [Number of Clone Instances: 4, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/AbstractClasspathResource.java(235): 476~CloneInstance [Ln:235, Col:86 - Ln:247, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/AntFilterReader.java(164): 477~CloneInstance [Ln:164, Col:31 - Ln:176, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/Path.java(488): 478~CloneInstance [Ln:488, Col:31 - Ln:500, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/ArchiveResource.java(280): 479~CloneInstance [Ln:280, Col:86 - Ln:292, Col:6]
+
+480~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/FixCrLfFilter.java(583): 481~CloneInstance [Ln:583, Col:24 - Ln:595, Col:27]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/StringUtils.java(220): 482~CloneInstance [Ln:220, Col:20 - Ln:232, Col:27]
+
+483~CloneClass [Number of Clone Instances: 2, Lines of Code: 28]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(38): 484~CloneInstance [Ln:38, Col:9 - Ln:65, Col:67]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(37): 485~CloneInstance [Ln:37, Col:9 - Ln:64, Col:61]
+
+486~CloneClass [Number of Clone Instances: 3, Lines of Code: 26]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(38): 487~CloneInstance [Ln:38, Col:9 - Ln:63, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(39): 488~CloneInstance [Ln:39, Col:9 - Ln:64, Col:61]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(37): 489~CloneInstance [Ln:37, Col:9 - Ln:62, Col:59]
+
+490~CloneClass [Number of Clone Instances: 4, Lines of Code: 24]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(38): 491~CloneInstance [Ln:38, Col:9 - Ln:61, Col:70]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCREATE.java(36): 492~CloneInstance [Ln:36, Col:9 - Ln:60, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(39): 493~CloneInstance [Ln:39, Col:9 - Ln:62, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(37): 494~CloneInstance [Ln:37, Col:9 - Ln:60, Col:62]
+
+495~CloneClass [Number of Clone Instances: 5, Lines of Code: 20]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCP.java(37): 496~CloneInstance [Ln:37, Col:9 - Ln:56, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(38): 497~CloneInstance [Ln:38, Col:9 - Ln:57, Col:66]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCREATE.java(36): 498~CloneInstance [Ln:36, Col:9 - Ln:56, Col:66]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(39): 499~CloneInstance [Ln:39, Col:9 - Ln:58, Col:63]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(37): 500~CloneInstance [Ln:37, Col:9 - Ln:56, Col:66]
+
+501~CloneClass [Number of Clone Instances: 6, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCP.java(37): 502~CloneInstance [Ln:37, Col:9 - Ln:52, Col:61]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKOUT.java(38): 503~CloneInstance [Ln:38, Col:9 - Ln:53, Col:61]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCREATE.java(36): 504~CloneInstance [Ln:36, Col:9 - Ln:52, Col:61]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSADD.java(39): 505~CloneInstance [Ln:39, Col:9 - Ln:54, Col:63]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSCHECKIN.java(37): 506~CloneInstance [Ln:37, Col:9 - Ln:52, Col:61]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/vss/MSVSSHISTORY.java(40): 507~CloneInstance [Ln:40, Col:9 - Ln:55, Col:61]
+
+508~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/depend/bcel/AncestorAnalyzer.java(42): 509~CloneInstance [Ln:42, Col:5 - Ln:54, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/depend/bcel/FullAnalyzer.java(41): 510~CloneInstance [Ln:41, Col:5 - Ln:53, Col:6]
+
+511~CloneClass [Number of Clone Instances: 2, Lines of Code: 25]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/ResourceUtils.java(672): 512~CloneInstance [Ln:672, Col:13 - Ln:696, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/ResourceUtils.java(730): 513~CloneInstance [Ln:730, Col:13 - Ln:754, Col:14]
+
+514~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/condition/ParserSupports.java(121): 515~CloneInstance [Ln:121, Col:9 - Ln:130, Col:21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/condition/ParserSupports.java(139): 516~CloneInstance [Ln:139, Col:9 - Ln:148, Col:21]
+
+517~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/HostInfo.java(135): 518~CloneInstance [Ln:135, Col:13 - Ln:144, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/HostInfo.java(222): 519~CloneInstance [Ln:222, Col:13 - Ln:231, Col:14]
+
+520~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/PlainJUnitResultFormatter.java(122): 521~CloneInstance [Ln:122, Col:13 - Ln:133, Col:45]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/BriefJUnitResultFormatter.java(138): 522~CloneInstance [Ln:138, Col:9 - Ln:149, Col:41]
+
+523~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(234): 524~CloneInstance [Ln:234, Col:9 - Ln:247, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(328): 525~CloneInstance [Ln:328, Col:9 - Ln:341, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(344): 526~CloneInstance [Ln:344, Col:9 - Ln:357, Col:10]
+
+527~CloneClass [Number of Clone Instances: 3, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(216): 528~CloneInstance [Ln:216, Col:9 - Ln:229, Col:54]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklbtype.java(172): 529~CloneInstance [Ln:172, Col:9 - Ln:185, Col:59]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCRmtype.java(149): 530~CloneInstance [Ln:149, Col:9 - Ln:162, Col:59]
+
+531~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java(1920): 532~CloneInstance [Ln:1920, Col:17 - Ln:1929, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Javadoc.java(2177): 533~CloneInstance [Ln:2177, Col:17 - Ln:2188, Col:18]
+
+534~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java(119): 535~CloneInstance [Ln:119, Col:9 - Ln:129, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(150): 536~CloneInstance [Ln:150, Col:9 - Ln:160, Col:10]
+
+537~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(1468): 538~CloneInstance [Ln:1468, Col:21 - Ln:1485, Col:22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(1495): 539~CloneInstance [Ln:1495, Col:13 - Ln:1512, Col:14]
+
+540~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Jar.java(719): 541~CloneInstance [Ln:719, Col:17 - Ln:729, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Jar.java(742): 542~CloneInstance [Ln:742, Col:17 - Ln:752, Col:18]
+
+543~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/Rpm.java(151): 544~CloneInstance [Ln:151, Col:13 - Ln:165, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/Rpm.java(166): 545~CloneInstance [Ln:166, Col:13 - Ln:180, Col:14]
+
+546~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/TelnetTask.java(110): 547~CloneInstance [Ln:110, Col:12 - Ln:121, Col:13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/RExecTask.java(472): 548~CloneInstance [Ln:472, Col:9 - Ln:483, Col:10]
+
+549~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/JarLibDisplayTask.java(106): 550~CloneInstance [Ln:106, Col:9 - Ln:117, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/JarLibAvailableTask.java(144): 551~CloneInstance [Ln:144, Col:9 - Ln:155, Col:10]
+
+552~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/PatternSet.java(480): 553~CloneInstance [Ln:480, Col:9 - Ln:493, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/PatternSet.java(494): 554~CloneInstance [Ln:494, Col:9 - Ln:507, Col:10]
+
+555~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Tar.java(493): 556~CloneInstance [Ln:493, Col:13 - Ln:504, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Tar.java(784): 557~CloneInstance [Ln:784, Col:21 - Ln:795, Col:22]
+
+558~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Zip.java(1384): 559~CloneInstance [Ln:1384, Col:9 - Ln:1393, Col:77]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Zip.java(1504): 560~CloneInstance [Ln:1504, Col:9 - Ln:1513, Col:72]
+
+561~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JavaCC.java(438): 562~CloneInstance [Ln:438, Col:17 - Ln:455, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JavaCC.java(472): 563~CloneInstance [Ln:472, Col:21 - Ln:489, Col:22]
+
+564~CloneClass [Number of Clone Instances: 2, Lines of Code: 41]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Redirector.java(576): 565~CloneInstance [Ln:576, Col:9 - Ln:616, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Redirector.java(618): 566~CloneInstance [Ln:618, Col:9 - Ln:658, Col:10]
+
+567~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/JonasDeploymentTool.java(687): 568~CloneInstance [Ln:687, Col:13 - Ln:697, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/JonasDeploymentTool.java(699): 569~CloneInstance [Ln:699, Col:13 - Ln:710, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/JonasDeploymentTool.java(712): 570~CloneInstance [Ln:712, Col:13 - Ln:723, Col:14]
+
+571~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Copy.java(881): 572~CloneInstance [Ln:881, Col:25 - Ln:891, Col:26]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Copy.java(959): 573~CloneInstance [Ln:959, Col:25 - Ln:969, Col:26]
+
+574~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/TaskAdapter.java(124): 575~CloneInstance [Ln:124, Col:9 - Ln:137, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/TaskAdapter.java(139): 576~CloneInstance [Ln:139, Col:9 - Ln:152, Col:10]
+
+577~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/BlockSort.java(384): 578~CloneInstance [Ln:384, Col:17 - Ln:398, Col:18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/BlockSort.java(399): 579~CloneInstance [Ln:399, Col:17 - Ln:413, Col:18]
+
+580~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/BlockSort.java(842): 581~CloneInstance [Ln:842, Col:21 - Ln:854, Col:22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/BlockSort.java(856): 582~CloneInstance [Ln:856, Col:21 - Ln:868, Col:22]
+
+583~CloneClass [Number of Clone Instances: 2, Lines of Code: 27]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/zip/ExtraFieldUtils.java(202): 584~CloneInstance [Ln:202, Col:5 - Ln:229, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/zip/ExtraFieldUtils.java(237): 585~CloneInstance [Ln:237, Col:5 - Ln:263, Col:6]
+
+586~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/DirectoryScanner.java(1571): 587~CloneInstance [Ln:1571, Col:5 - Ln:1582, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/DirectoryScanner.java(1657): 588~CloneInstance [Ln:1657, Col:5 - Ln:1668, Col:6]
+
+589~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/ScpToMessage.java(242): 590~CloneInstance [Ln:242, Col:5 - Ln:251, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/ScpToMessageBySftp.java(120): 591~CloneInstance [Ln:120, Col:5 - Ln:129, Col:6]
+
+592~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/SSHExec.java(280): 593~CloneInstance [Ln:280, Col:9 - Ln:289, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/SSHSession.java(137): 594~CloneInstance [Ln:137, Col:9 - Ln:146, Col:10]
+
+595~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/MappingSelector.java(96): 596~CloneInstance [Ln:96, Col:5 - Ln:111, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/PresentSelector.java(135): 597~CloneInstance [Ln:135, Col:5 - Ln:150, Col:6]
+
+598~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2InputStream.java(182): 599~CloneInstance [Ln:182, Col:9 - Ln:195, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/bzip2/CBZip2OutputStream.java(865): 600~CloneInstance [Ln:865, Col:9 - Ln:878, Col:10]
+
+601~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.java(1517): 602~CloneInstance [Ln:1517, Col:5 - Ln:1527, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.java(1536): 603~CloneInstance [Ln:1536, Col:5 - Ln:1546, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/JUnitTask.java(1556): 604~CloneInstance [Ln:1556, Col:5 - Ln:1566, Col:6]
+
+605~CloneClass [Number of Clone Instances: 2, Lines of Code: 24]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/launcher/PerlScriptCommandLauncher.java(57): 606~CloneInstance [Ln:57, Col:9 - Ln:81, Col:54]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/launcher/ScriptCommandLauncher.java(57): 607~CloneInstance [Ln:57, Col:9 - Ln:80, Col:54]
+
+608~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/launcher/WinNTCommandLauncher.java(54): 609~CloneInstance [Ln:54, Col:9 - Ln:64, Col:36]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/launcher/OS2CommandLauncher.java(56): 610~CloneInstance [Ln:56, Col:9 - Ln:66, Col:36]
+
+611~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Copydir.java(98): 612~CloneInstance [Ln:98, Col:9 - Ln:117, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Copyfile.java(84): 613~CloneInstance [Ln:84, Col:9 - Ln:103, Col:10]
+
+614~CloneClass [Number of Clone Instances: 2, Lines of Code: 41]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(1662): 615~CloneInstance [Ln:1662, Col:5 - Ln:1702, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java(722): 616~CloneInstance [Ln:722, Col:5 - Ln:762, Col:6]
+
+617~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/TelnetTask.java(86): 618~CloneInstance [Ln:86, Col:8 - Ln:101, Col:32]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/RExecTask.java(342): 619~CloneInstance [Ln:342, Col:9 - Ln:357, Col:33]
+
+620~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/PrefixLines.java(82): 621~CloneInstance [Ln:82, Col:9 - Ln:91, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/SuffixLines.java(83): 622~CloneInstance [Ln:83, Col:9 - Ln:92, Col:10]
+
+623~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJDoc.java(130): 624~CloneInstance [Ln:130, Col:9 - Ln:140, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JJTree.java(220): 625~CloneInstance [Ln:220, Col:9 - Ln:229, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javacc/JavaCC.java(337): 626~CloneInstance [Ln:337, Col:9 - Ln:347, Col:10]
+
+627~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/TokenFilter.java(474): 628~CloneInstance [Ln:474, Col:13 - Ln:483, Col:64]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/TokenFilter.java(542): 629~CloneInstance [Ln:542, Col:13 - Ln:551, Col:64]
+
+630~CloneClass [Number of Clone Instances: 2, Lines of Code: 29]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(352): 631~CloneInstance [Ln:352, Col:9 - Ln:380, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(253): 632~CloneInstance [Ln:253, Col:9 - Ln:281, Col:10]
+
+633~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/PrefixLines.java(153): 634~CloneInstance [Ln:153, Col:5 - Ln:163, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/filters/SuffixLines.java(163): 635~CloneInstance [Ln:163, Col:5 - Ln:173, Col:6]
+
+636~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/j2ee/JonasHotDeploymentTool.java(237): 637~CloneInstance [Ln:237, Col:5 - Ln:250, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/j2ee/WebLogicHotDeploymentTool.java(140): 638~CloneInstance [Ln:140, Col:5 - Ln:153, Col:6]
+
+639~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2587): 640~CloneInstance [Ln:2587, Col:9 - Ln:2607, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java(862): 641~CloneInstance [Ln:862, Col:9 - Ln:882, Col:10]
+
+642~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/DirectoryScanner.java(723): 643~CloneInstance [Ln:723, Col:5 - Ln:732, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/DirectoryScanner.java(746): 644~CloneInstance [Ln:746, Col:5 - Ln:755, Col:6]
+
+645~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/AbstractFileSet.java(269): 646~CloneInstance [Ln:269, Col:5 - Ln:279, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/AbstractFileSet.java(304): 647~CloneInstance [Ln:304, Col:5 - Ln:314, Col:6]
+
+648~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(138): 649~CloneInstance [Ln:138, Col:9 - Ln:154, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/SelectorUtils.java(223): 650~CloneInstance [Ln:223, Col:9 - Ln:239, Col:10]
+
+651~CloneClass [Number of Clone Instances: 3, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/JakartaOroMatcher.java(154): 652~CloneInstance [Ln:154, Col:5 - Ln:168, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/Jdk14RegexpMatcher.java(153): 653~CloneInstance [Ln:153, Col:5 - Ln:168, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/JakartaRegexpMatcher.java(145): 654~CloneInstance [Ln:145, Col:5 - Ln:159, Col:6]
+
+655~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2645): 656~CloneInstance [Ln:2645, Col:9 - Ln:2655, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java(920): 657~CloneInstance [Ln:920, Col:9 - Ln:930, Col:10]
+
+658~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/Ear.java(66): 659~CloneInstance [Ln:66, Col:5 - Ln:79, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/War.java(92): 660~CloneInstance [Ln:92, Col:5 - Ln:105, Col:6]
+
+661~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/DirectoryScanner.java(1385): 662~CloneInstance [Ln:1385, Col:5 - Ln:1399, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/DirectoryScanner.java(1528): 663~CloneInstance [Ln:1528, Col:5 - Ln:1542, Col:6]
+
+664~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/Target.java(306): 665~CloneInstance [Ln:306, Col:5 - Ln:317, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/Target.java(353): 666~CloneInstance [Ln:353, Col:5 - Ln:364, Col:6]
+
+667~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/AbstractCvsTask.java(479): 668~CloneInstance [Ln:479, Col:5 - Ln:489, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/AbstractCvsTask.java(505): 669~CloneInstance [Ln:505, Col:5 - Ln:514, Col:6]
+
+670~CloneClass [Number of Clone Instances: 23, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(339): 671~CloneInstance [Ln:339, Col:5 - Ln:349, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(357): 672~CloneInstance [Ln:357, Col:5 - Ln:367, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(375): 673~CloneInstance [Ln:375, Col:5 - Ln:385, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(407): 674~CloneInstance [Ln:407, Col:5 - Ln:417, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(425): 675~CloneInstance [Ln:425, Col:5 - Ln:435, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(444): 676~CloneInstance [Ln:444, Col:5 - Ln:454, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckout.java(462): 677~CloneInstance [Ln:462, Col:5 - Ln:472, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklbtype.java(358): 678~CloneInstance [Ln:358, Col:5 - Ln:368, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklbtype.java(376): 679~CloneInstance [Ln:376, Col:5 - Ln:386, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(309): 680~CloneInstance [Ln:309, Col:5 - Ln:319, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(327): 681~CloneInstance [Ln:327, Col:5 - Ln:337, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(345): 682~CloneInstance [Ln:345, Col:5 - Ln:355, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCRmtype.java(316): 683~CloneInstance [Ln:316, Col:5 - Ln:326, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCRmtype.java(334): 684~CloneInstance [Ln:334, Col:5 - Ln:344, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(319): 685~CloneInstance [Ln:319, Col:5 - Ln:329, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(337): 686~CloneInstance [Ln:337, Col:5 - Ln:347, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(355): 687~CloneInstance [Ln:355, Col:5 - Ln:365, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(282): 688~CloneInstance [Ln:282, Col:5 - Ln:292, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(300): 689~CloneInstance [Ln:300, Col:5 - Ln:310, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(304): 690~CloneInstance [Ln:304, Col:5 - Ln:314, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(322): 691~CloneInstance [Ln:322, Col:5 - Ln:332, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(190): 692~CloneInstance [Ln:190, Col:5 - Ln:200, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(208): 693~CloneInstance [Ln:208, Col:5 - Ln:218, Col:6]
+
+694~CloneClass [Number of Clone Instances: 4, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkelem.java(141): 695~CloneInstance [Ln:141, Col:9 - Ln:156, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCCheckin.java(129): 696~CloneInstance [Ln:129, Col:9 - Ln:144, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkbl.java(133): 697~CloneInstance [Ln:133, Col:9 - Ln:148, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkdir.java(110): 698~CloneInstance [Ln:110, Col:9 - Ln:124, Col:10]
+
+699~CloneClass [Number of Clone Instances: 6, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java(203): 700~CloneInstance [Ln:203, Col:5 - Ln:215, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUnlock.java(223): 701~CloneInstance [Ln:223, Col:5 - Ln:235, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(289): 702~CloneInstance [Ln:289, Col:5 - Ln:301, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(309): 703~CloneInstance [Ln:309, Col:5 - Ln:321, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCLock.java(329): 704~CloneInstance [Ln:329, Col:5 - Ln:341, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCUpdate.java(287): 705~CloneInstance [Ln:287, Col:5 - Ln:299, Col:6]
+
+706~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(559): 707~CloneInstance [Ln:559, Col:9 - Ln:574, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(460): 708~CloneInstance [Ln:460, Col:9 - Ln:475, Col:10]
+
+709~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/URLResource.java(310): 710~CloneInstance [Ln:310, Col:9 - Ln:319, Col:52]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/ArchiveResource.java(213): 711~CloneInstance [Ln:213, Col:9 - Ln:222, Col:55]
+
+712~CloneClass [Number of Clone Instances: 2, Lines of Code: 22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(1554): 713~CloneInstance [Ln:1554, Col:5 - Ln:1575, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTask.java(588): 714~CloneInstance [Ln:588, Col:5 - Ln:609, Col:6]
+
+715~CloneClass [Number of Clone Instances: 2, Lines of Code: 31]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMklabel.java(139): 716~CloneInstance [Ln:139, Col:9 - Ln:169, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/CCMkattr.java(146): 717~CloneInstance [Ln:146, Col:9 - Ln:176, Col:10]
+
+718~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/ExtendSelector.java(107): 719~CloneInstance [Ln:107, Col:5 - Ln:116, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/Mapper.java(122): 720~CloneInstance [Ln:122, Col:5 - Ln:131, Col:6]
+
+721~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/AntFilterReader.java(79): 722~CloneInstance [Ln:79, Col:5 - Ln:89, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(210): 723~CloneInstance [Ln:210, Col:5 - Ln:220, Col:6]
+
+724~CloneClass [Number of Clone Instances: 3, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(114): 725~CloneInstance [Ln:114, Col:5 - Ln:128, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(134): 726~CloneInstance [Ln:134, Col:5 - Ln:148, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(154): 727~CloneInstance [Ln:154, Col:5 - Ln:168, Col:6]
+
+728~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/selectors/ResourceSelectorContainer.java(58): 729~CloneInstance [Ln:58, Col:5 - Ln:67, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/Restrict.java(56): 730~CloneInstance [Ln:56, Col:5 - Ln:65, Col:6]
+
+731~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(247): 732~CloneInstance [Ln:247, Col:5 - Ln:256, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(310): 733~CloneInstance [Ln:310, Col:5 - Ln:319, Col:6]
+
+734~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/PatternSet.java(289): 735~CloneInstance [Ln:289, Col:5 - Ln:299, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/PatternSet.java(307): 736~CloneInstance [Ln:307, Col:5 - Ln:317, Col:6]
+
+737~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/condition/HasMethod.java(170): 738~CloneInstance [Ln:170, Col:5 - Ln:179, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/condition/HasMethod.java(181): 739~CloneInstance [Ln:181, Col:5 - Ln:190, Col:6]
+
+740~CloneClass [Number of Clone Instances: 2, Lines of Code: 15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/SSHSession.java(89): 741~CloneInstance [Ln:89, Col:5 - Ln:103, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/SSHSession.java(112): 742~CloneInstance [Ln:112, Col:5 - Ln:126, Col:6]
+
+743~CloneClass [Number of Clone Instances: 2, Lines of Code: 18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPool.java(160): 744~CloneInstance [Ln:160, Col:5 - Ln:177, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPool.java(187): 745~CloneInstance [Ln:187, Col:5 - Ln:204, Col:6]
+
+746~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(1958): 747~CloneInstance [Ln:1958, Col:13 - Ln:1974, Col:44]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1347): 748~CloneInstance [Ln:1347, Col:13 - Ln:1363, Col:44]
+
+749~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/DeweyDecimal.java(149): 750~CloneInstance [Ln:149, Col:5 - Ln:165, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/DeweyDecimal.java(174): 751~CloneInstance [Ln:174, Col:5 - Ln:190, Col:6]
+
+752~CloneClass [Number of Clone Instances: 3, Lines of Code: 18]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/MethodRefCPInfo.java(86): 753~CloneInstance [Ln:86, Col:5 - Ln:103, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/InterfaceMethodRefCPInfo.java(70): 754~CloneInstance [Ln:70, Col:5 - Ln:87, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/FieldRefCPInfo.java(64): 755~CloneInstance [Ln:64, Col:5 - Ln:81, Col:6]
+
+756~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/ConcatFileInputStream.java(100): 757~CloneInstance [Ln:100, Col:5 - Ln:110, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/LeadPipeInputStream.java(149): 758~CloneInstance [Ln:149, Col:5 - Ln:159, Col:6]
+
+759~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/TelnetTask.java(390): 760~CloneInstance [Ln:390, Col:9 - Ln:401, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/RExecTask.java(244): 761~CloneInstance [Ln:244, Col:9 - Ln:255, Col:10]
+
+762~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2192): 763~CloneInstance [Ln:2192, Col:5 - Ln:2212, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(2222): 764~CloneInstance [Ln:2222, Col:5 - Ln:2242, Col:6]
+
+765~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1580): 766~CloneInstance [Ln:1580, Col:5 - Ln:1600, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1610): 767~CloneInstance [Ln:1610, Col:5 - Ln:1630, Col:6]
+
+768~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(1897): 769~CloneInstance [Ln:1897, Col:9 - Ln:1915, Col:36]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1286): 770~CloneInstance [Ln:1286, Col:9 - Ln:1304, Col:36]
+
+771~CloneClass [Number of Clone Instances: 2, Lines of Code: 22]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java(728): 772~CloneInstance [Ln:728, Col:17 - Ln:749, Col:71]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(696): 773~CloneInstance [Ln:696, Col:17 - Ln:717, Col:71]
+
+774~CloneClass [Number of Clone Instances: 2, Lines of Code: 39]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(583): 775~CloneInstance [Ln:583, Col:9 - Ln:621, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(484): 776~CloneInstance [Ln:484, Col:9 - Ln:522, Col:10]
+
+777~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/OrSelector.java(61): 778~CloneInstance [Ln:61, Col:5 - Ln:72, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/NoneSelector.java(62): 779~CloneInstance [Ln:62, Col:5 - Ln:72, Col:6]
+
+780~CloneClass [Number of Clone Instances: 3, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPool.java(217): 781~CloneInstance [Ln:217, Col:5 - Ln:237, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPool.java(251): 782~CloneInstance [Ln:251, Col:5 - Ln:276, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/ConstantPool.java(289): 783~CloneInstance [Ln:289, Col:5 - Ln:309, Col:6]
+
+784~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resolver/ApacheCatalogResolver.java(136): 785~CloneInstance [Ln:136, Col:5 - Ln:146, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resolver/ApacheCatalogResolver.java(162): 786~CloneInstance [Ln:162, Col:5 - Ln:172, Col:6]
+
+787~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/FileUtils.java(513): 788~CloneInstance [Ln:513, Col:5 - Ln:522, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/ResourceUtils.java(341): 789~CloneInstance [Ln:341, Col:5 - Ln:351, Col:6]
+
+790~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/Assertions.java(165): 791~CloneInstance [Ln:165, Col:5 - Ln:183, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/Assertions.java(210): 792~CloneInstance [Ln:210, Col:5 - Ln:228, Col:6]
+
+793~CloneClass [Number of Clone Instances: 2, Lines of Code: 19]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/ResourceList.java(151): 794~CloneInstance [Ln:151, Col:5 - Ln:169, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/AbstractFileSet.java(935): 795~CloneInstance [Ln:935, Col:5 - Ln:953, Col:6]
+
+796~CloneClass [Number of Clone Instances: 3, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/selectors/BaseSelectorContainer.java(348): 797~CloneInstance [Ln:348, Col:5 - Ln:363, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/selectors/ResourceSelectorContainer.java(111): 798~CloneInstance [Ln:111, Col:5 - Ln:126, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/BaseResourceCollectionContainer.java(191): 799~CloneInstance [Ln:191, Col:5 - Ln:206, Col:6]
+
+800~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/AntFilterReader.java(163): 801~CloneInstance [Ln:163, Col:5 - Ln:176, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/Path.java(487): 802~CloneInstance [Ln:487, Col:5 - Ln:500, Col:6]
+
+803~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/comparators/Reverse.java(76): 804~CloneInstance [Ln:76, Col:5 - Ln:90, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/AbstractResourceCollectionWrapper.java(156): 805~CloneInstance [Ln:156, Col:5 - Ln:169, Col:6]
+
+806~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/AbstractClasspathResource.java(235): 807~CloneInstance [Ln:235, Col:5 - Ln:247, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/ArchiveResource.java(280): 808~CloneInstance [Ln:280, Col:5 - Ln:292, Col:6]
+
+809~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/depend/bcel/AncestorAnalyzer.java(68): 810~CloneInstance [Ln:68, Col:9 - Ln:78, Col:60]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/depend/bcel/FullAnalyzer.java(66): 811~CloneInstance [Ln:66, Col:9 - Ln:75, Col:60]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/AntAnalyzer.java(56): 812~CloneInstance [Ln:56, Col:9 - Ln:65, Col:60]
+
+813~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(930): 814~CloneInstance [Ln:930, Col:13 - Ln:942, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(833): 815~CloneInstance [Ln:833, Col:13 - Ln:845, Col:14]
+
+816~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/URLResource.java(344): 817~CloneInstance [Ln:344, Col:5 - Ln:354, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/URLResource.java(365): 818~CloneInstance [Ln:365, Col:5 - Ln:375, Col:6]
+
+819~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/rmic/KaffeRmic.java(94): 820~CloneInstance [Ln:94, Col:5 - Ln:103, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/native2ascii/KaffeNative2Ascii.java(77): 821~CloneInstance [Ln:77, Col:5 - Ln:86, Col:6]
+
+822~CloneClass [Number of Clone Instances: 2, Lines of Code: 20]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/sos/SOSCheckout.java(62): 823~CloneInstance [Ln:62, Col:9 - Ln:81, Col:33]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/sos/SOSCheckin.java(73): 824~CloneInstance [Ln:73, Col:9 - Ln:92, Col:33]
+
+825~CloneClass [Number of Clone Instances: 2, Lines of Code: 21]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/AbstractCvsTask.java(196): 826~CloneInstance [Ln:196, Col:5 - Ln:216, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/AbstractCvsTask.java(235): 827~CloneInstance [Ln:235, Col:5 - Ln:255, Col:6]
+
+828~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/MappedResourceCollection.java(249): 829~CloneInstance [Ln:249, Col:5 - Ln:265, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/resources/Files.java(385): 830~CloneInstance [Ln:385, Col:5 - Ln:401, Col:6]
+
+831~CloneClass [Number of Clone Instances: 4, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/AntFilterReader.java(95): 832~CloneInstance [Ln:95, Col:5 - Ln:104, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(191): 833~CloneInstance [Ln:191, Col:5 - Ln:200, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/XMLCatalog.java(247): 834~CloneInstance [Ln:247, Col:5 - Ln:256, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/Mapper.java(137): 835~CloneInstance [Ln:137, Col:5 - Ln:146, Col:6]
+
+836~CloneClass [Number of Clone Instances: 3, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(391): 837~CloneInstance [Ln:391, Col:5 - Ln:400, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(406): 838~CloneInstance [Ln:406, Col:5 - Ln:415, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/RedirectorElement.java(421): 839~CloneInstance [Ln:421, Col:5 - Ln:430, Col:6]
+
+840~CloneClass [Number of Clone Instances: 3, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/MethodRefCPInfo.java(65): 841~CloneInstance [Ln:65, Col:5 - Ln:77, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/InterfaceMethodRefCPInfo.java(94): 842~CloneInstance [Ln:94, Col:5 - Ln:107, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/depend/constantpool/FieldRefCPInfo.java(88): 843~CloneInstance [Ln:88, Col:5 - Ln:100, Col:6]
+
+844~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/clearcase/ClearCase.java(68): 845~CloneInstance [Ln:68, Col:5 - Ln:77, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ccm/Continuus.java(77): 846~CloneInstance [Ln:77, Col:5 - Ln:86, Col:6]
+
+847~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/Diagnostics.java(198): 848~CloneInstance [Ln:198, Col:5 - Ln:211, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/Diagnostics.java(217): 849~CloneInstance [Ln:217, Col:5 - Ln:230, Col:6]
+
+850~CloneClass [Number of Clone Instances: 2, Lines of Code: 41]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(402): 851~CloneInstance [Ln:402, Col:9 - Ln:443, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(495): 852~CloneInstance [Ln:495, Col:9 - Ln:535, Col:10]
+
+853~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(988): 854~CloneInstance [Ln:988, Col:13 - Ln:1004, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(894): 855~CloneInstance [Ln:894, Col:13 - Ln:910, Col:14]
+
+856~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/ProjectHelperRepository.java(253): 857~CloneInstance [Ln:253, Col:5 - Ln:268, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/ProjectHelperRepository.java(276): 858~CloneInstance [Ln:276, Col:5 - Ln:291, Col:6]
+
+859~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/LineTokenizer.java(57): 860~CloneInstance [Ln:57, Col:9 - Ln:66, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/StringTokenizer.java(87): 861~CloneInstance [Ln:87, Col:9 - Ln:96, Col:10]
+
+862~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java(900): 863~CloneInstance [Ln:900, Col:5 - Ln:912, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WebsphereDeploymentTool.java(866): 864~CloneInstance [Ln:866, Col:5 - Ln:878, Col:6]
+
+865~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/RegexpFactory.java(53): 866~CloneInstance [Ln:53, Col:5 - Ln:68, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/RegexpMatcherFactory.java(56): 867~CloneInstance [Ln:56, Col:5 - Ln:71, Col:6]
+
+868~CloneClass [Number of Clone Instances: 2, Lines of Code: 14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/ZipFileSet.java(73): 869~CloneInstance [Ln:73, Col:5 - Ln:86, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/TarFileSet.java(208): 870~CloneInstance [Ln:208, Col:5 - Ln:221, Col:6]
+
+871~CloneClass [Number of Clone Instances: 2, Lines of Code: 30]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/JavaEnvUtils.java(343): 872~CloneInstance [Ln:343, Col:5 - Ln:372, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/JavaEnvUtils.java(384): 873~CloneInstance [Ln:384, Col:5 - Ln:415, Col:6]
+
+874~CloneClass [Number of Clone Instances: 2, Lines of Code: 27]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Specification.java(346): 875~CloneInstance [Ln:346, Col:9 - Ln:372, Col:48]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/extension/Extension.java(437): 876~CloneInstance [Ln:437, Col:9 - Ln:463, Col:51]
+
+877~CloneClass [Number of Clone Instances: 2, Lines of Code: 12]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(1995): 878~CloneInstance [Ln:1995, Col:17 - Ln:2006, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(1384): 879~CloneInstance [Ln:1384, Col:17 - Ln:1395, Col:14]
+
+880~CloneClass [Number of Clone Instances: 2, Lines of Code: 13]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(758): 881~CloneInstance [Ln:758, Col:9 - Ln:770, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(660): 882~CloneInstance [Ln:660, Col:9 - Ln:672, Col:10]
+
+883~CloneClass [Number of Clone Instances: 2, Lines of Code: 36]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javah/Gcjh.java(52): 884~CloneInstance [Ln:52, Col:5 - Ln:87, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/javah/Kaffeh.java(57): 885~CloneInstance [Ln:57, Col:5 - Ln:92, Col:6]
+
+886~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/WeblogicDeploymentTool.java(421): 887~CloneInstance [Ln:421, Col:9 - Ln:436, Col:15]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ejb/BorlandDeploymentTool.java(210): 888~CloneInstance [Ln:210, Col:9 - Ln:225, Col:19]
+
+889~CloneClass [Number of Clone Instances: 2, Lines of Code: 17]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/TraXLiaison.java(229): 890~CloneInstance [Ln:229, Col:9 - Ln:245, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/TraXLiaison.java(255): 891~CloneInstance [Ln:255, Col:9 - Ln:271, Col:10]
+
+892~CloneClass [Number of Clone Instances: 2, Lines of Code: 16]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(860): 893~CloneInstance [Ln:860, Col:13 - Ln:875, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(762): 894~CloneInstance [Ln:762, Col:13 - Ln:777, Col:14]
+
+895~CloneClass [Number of Clone Instances: 2, Lines of Code: 23]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/JakartaOroRegexp.java(48): 896~CloneInstance [Ln:48, Col:9 - Ln:70, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/regexp/Jdk14RegexpRegexp.java(62): 897~CloneInstance [Ln:62, Col:9 - Ln:84, Col:10]
+
+898~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/XMLFragment.java(77): 899~CloneInstance [Ln:77, Col:5 - Ln:86, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/util/XMLFragment.java(143): 900~CloneInstance [Ln:143, Col:9 - Ln:152, Col:10]
+
+901~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/AntClassLoader.java(654): 902~CloneInstance [Ln:654, Col:5 - Ln:663, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/AntClassLoader.java(681): 903~CloneInstance [Ln:681, Col:5 - Ln:690, Col:6]
+
+904~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/ScpToMessage.java(105): 905~CloneInstance [Ln:105, Col:5 - Ln:114, Col:6]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/ssh/ScpToMessage.java(143): 906~CloneInstance [Ln:143, Col:5 - Ln:152, Col:6]
+
+907~CloneClass [Number of Clone Instances: 2, Lines of Code: 43]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTP.java(811): 908~CloneInstance [Ln:811, Col:13 - Ln:853, Col:14]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/net/FTPTaskMirrorImpl.java(713): 909~CloneInstance [Ln:713, Col:13 - Ln:755, Col:14]
+
+910~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/cvslib/CvsTagDiff.java(353): 911~CloneInstance [Ln:353, Col:9 - Ln:364, Col:10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/cvslib/CvsTagDiff.java(396): 912~CloneInstance [Ln:396, Col:9 - Ln:406, Col:10]
+
+913~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Jikes.java(177): 914~CloneInstance [Ln:177, Col:9 - Ln:188, Col:82]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Jikes.java(204): 915~CloneInstance [Ln:204, Col:9 - Ln:214, Col:86]
+
+916~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/DirSet.java(102): 917~CloneInstance [Ln:102, Col:9 - Ln:112, Col:30]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/types/AbstractFileSet.java(851): 918~CloneInstance [Ln:851, Col:9 - Ln:861, Col:30]
+
+919~CloneClass [Number of Clone Instances: 2, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/Kjc.java(72): 920~CloneInstance [Ln:72, Col:9 - Ln:84, Col:30]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/compilers/DefaultCompilerAdapter.java(305): 921~CloneInstance [Ln:305, Col:13 - Ln:315, Col:34]
+
+922~CloneClass [Number of Clone Instances: 3, Lines of Code: 11]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/PlainJUnitResultFormatter.java(122): 923~CloneInstance [Ln:122, Col:13 - Ln:132, Col:31]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/BriefJUnitResultFormatter.java(138): 924~CloneInstance [Ln:138, Col:9 - Ln:148, Col:27]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/taskdefs/optional/junit/SummaryJUnitResultFormatter.java(166): 925~CloneInstance [Ln:166, Col:9 - Ln:176, Col:27]
+
+926~CloneClass [Number of Clone Instances: 2, Lines of Code: 10]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/dispatch/DispatchUtils.java(69): 927~CloneInstance [Ln:69, Col:37 - Ln:80, Col:38]
+/home/shizzed/Downloads/apache-ant-1.10.0-src/apache-ant-1.10.0/src/main/org/apache/tools/ant/dispatch/DispatchUtils.java(100): 928~CloneInstance [Ln:100, Col:17 - Ln:109, Col:18]
+
