@@ -1,0 +1,135 @@
+---
+title: "Ant analyse"
+author: "Przemyslaw Rodrigo Klejno"
+date: '2022-06-12'
+output:
+  pdf_document: default
+  word_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Ant analyse (**Ant**)
+
+Versions of Ant that I have used:
+
+- 1.10.0 - https://archive.apache.org/dist/ant/binaries/apache-ant-1.10.0-bin.zip
+
+- 1.10.5 - https://archive.apache.org/dist/ant/binaries/apache-ant-1.10.5-bin.zip
+
+- 1.9.9 - https://archive.apache.org/dist/ant/binaries/apache-ant-1.9.9-bin.zip
+
+Commands used to analyse project:
+
+- SourceMeterJava -projectName=ant-1.9.9 -projectBaseDir=apache-ant-1.9.9 -resultsDir=Results -runFB=true -FBFileList=filelist-ant-1.9.9.txt
+
+- SourceMeterJava -projectName=ant-1.10.0 -projectBaseDir=apache-ant-1.10.0 -resultsDir=Results -runFB=true -FBFileList=filelist-ant-1.10.0.txt
+
+- SourceMeterJava -projectName=ant-1.10.5 -projectBaseDir=apache-ant-1.10.5 -resultsDir=Results -runFB=true -FBFileList=filelist-ant-1.10.5.txt
+
+
+## I uploaded results to this github repo:
+https://github.com/PRIS2/SourceMeterRodrigo
+
+## Loading data
+
+```{r routes_csv}
+Class1.9.9 <- "ant-1.9.9/java/2022-06-12-18-12-47/ant-1.9.9-Class.csv"
+Class1.10.5 <- "ant-1.10.5/java/2022-06-12-18-29-12/ant-1.10.5-Class.csv"
+Class1.10.0 <- "ant-1.10.0/java/2022-06-12-18-28-05/ant-1.10.0-Class.csv"
+```
+
+
+```{r dataset_csv}
+library(readr)
+datasetClass1.9.9 <- read_csv(Class1.9.9)
+datasetClass1.10.0 <- read_csv(Class1.10.0)
+datasetClass1.10.5 <- read_csv(Class1.10.5)
+```
+
+## Coupling Between Object classes - CBO
+
+```{r variable_CBO}
+cboClass1.9.9 <- datasetClass1.9.9$CBO
+cboClass1.10.0 <- datasetClass1.10.0$CBO
+cboClass1.10.5 <- datasetClass1.10.5$CBO
+
+Class1.9.9Plot <- table(cboClass1.9.9)
+barplot(Class1.9.9Plot,
+        main = 'Coupling Between Object classes ANT 1.9.9',
+        xlab = 'Coupling Between Object classes',
+        ylab = 'Classes')
+
+### in 2 datasets below error occurs, I don't know why, checked a lot of things
+Class1.10.0Plot <- table(cboClass1.10.0)
+barplot(Class1.10.0Plot,
+        main = 'Coupling Between Object classes ANT 1.10.0',
+        xlab = 'Coupling Between Object classes',
+        ylab = 'Classes')
+
+Class1.10.5Plot <- table(cboClass1.10.5)
+barplot(Class1.10.5Plot,
+        main = 'Coupling Between Object classes ANT 1.10.5',
+        xlab = 'Coupling Between Object classes',
+        ylab = 'Classes')
+
+```
+
+## Weighted Methods per Class - WMC
+
+```{r variable_WMC}
+wmcClass1.9.9 <- datasetClass1.9.9$WMC
+wmcClass1.10.0 <- datasetClass1.10.0$WMC
+wmcClass1.10.5 <- datasetClass1.10.5$WMC
+
+
+tableWMC1.9.9 <- table(wmcClass1.9.9)
+barplot(tableWMC1.9.9,
+        main = 'Weighted Methods per Class ANT 1.9.9',
+        xlab = 'Weighted Methods per Class',
+        ylab = 'Classes')
+
+### in 2 datasets below error occurs, I don't know why, checked a lot of things
+tableWMC1.10.5 <- table(wmcClass1.10.5)
+barplot(tableWMC1.10.5,
+        main = 'Weighted Methods per Class ANT 1.10.5',
+        xlab = 'Weighted Methods per Class',
+        ylab = 'Classes')
+
+tableWMC1.10.0 <- table(wmcClass1.10.0)
+barplot(tableWMC1.10.0,
+        main = 'Weighted Methods per Class ANT 1.10.0',
+        xlab = 'Weighted Methods per Class',
+        ylab = 'Classes')
+```
+
+## Lack of Cohesion of Methods - LCOM
+
+```{r variable_LCOM}
+lcomClass1.9.9 <- datasetClass1.9.9$LCOM5
+lcomClass1.10.0 <- datasetClass1.10.0$LCOM5
+lcomClass1.10.5 <- datasetClass1.10.5$LCOM5
+
+tableLCOM1.9.9 <- table(lcomClass1.9.9)
+barplot(tableLCOM1.9.9,
+        main = 'Lack of Cohesion of Methods ANT 1.9.9',
+        xlab = 'Lack of Cohesion of Methods',
+        ylab = 'Classes')
+
+### in 2 datasets below error occurs, I don't know why, checked a lot of things
+tableLCOM1.10.5 <- table(lcomClass1.10.5)
+barplot(tableLCOM1.10.5,
+        main = 'Lack of Cohesion of Methods ANT 1.10.5',
+        xlab = 'Lack of Cohesion of Methods',
+        ylab = 'Classes')
+
+tableLCOM1.10.0 <- table(lcomClass1.10.0)
+barplot(tableLCOM1.10.0,
+        main = 'Lack of Cohesion of Methods ANT 1.10.0',
+        xlab = 'Lack of Cohesion of Methods',
+        ylab = 'Classes')
+
+```
